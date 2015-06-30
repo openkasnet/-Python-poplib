@@ -3,8 +3,8 @@
 #to'g'risi brauzerdan kirib o'chirgani erinaman !!!! 
 import poplib
  
-username = 'temp'
-password = 'uz04121977'
+username = 'inbox'
+password = 'password'
  
 mail_server = 'mail.uzkoram.uz'
  
